@@ -1,95 +1,83 @@
-{
-    "DataEvent": [
-        {
-            "Id": "WeddingEvent",
-            "TypeData": "Event",
-            "Image": "https://example.com/wedding.jpg",
-            "Title": "Wedding",
-            "Description": "A special event for celebrating love and commitment.",
-            "UnlockFees": 2,
-            "Price": 70,
-            "Top1Rank": [
-                {
-                    "Gem": 5000,
-                    "Ticket": 5
-                }
-               
-            ],
-            "Top2Rank": [
-                {
-                    "Gem": 3000,
-                    "Ticket": 3
-                }
-            ],
-            "Top3Rank": [
-                {
-                    "Gem": 2000,
-                    "Ticket": 1
-                }
-            ]
-
-          
-        },
-        {
-            "Id": "PopStartEvent",
-            "TypeData": "Event",
-            "Image": "https://example.com/wedding.jpg",
-            "Title": "Pop Star",
-            "Description": "An event to showcase the latest in pop fashion.",
-            "UnlockFees": 2,
-            "Price": 50,
-            "Top1Rank": [
-                {
-                    "Gem": 5000,
-                    "Ticket": 5
-                }
-               
-            ],
-            "Top2Rank": [
-                {
-                    "Gem": 3000,
-                    "Ticket": 3
-                }
-            ],
-            "Top3Rank": [
-                {
-                    "Gem": 2000,
-                    "Ticket": 1
-                }
-            ]
-
-          
-        },
-         {
-            "Id": "",
-            "TypeData": "",
-            "Image": "",
-            "Title": "",
-            "Description": "",
-            "UnlockFees": 2,
-            "Price": 70,
-            "Top1Rank": [
-                {
-                    "Gem": 5000,
-                    "Ticket": 5
-                }
-               
-            ],
-            "Top2Rank": [
-                {
-                    "Gem": 3000,
-                    "Ticket": 3
-                }
-            ],
-            "Top3Rank": [
-                {
-                    "Gem": 2000,
-                    "Ticket": 1
-                }
-            ]
-
-          
-        }
-    ]
-  
-}
+[
+    {
+        "Id": "WeddingEvent",
+        "TypeData": "Event",
+        "Image": "https://example.com/wedding.jpg",
+        "Title": "Wedding",
+        "Description": "A special event for celebrating love and commitment.",
+        "UnlockFees": 2,
+        "Price": 70,
+        "Top1Rank": [
+            {
+                "Gem": 5000,
+                "Ticket": 5
+            }
+        ],
+        "Top2Rank": [
+            {
+                "Gem": 3000,
+                "Ticket": 3
+            }
+        ],
+        "Top3Rank": [
+            {
+                "Gem": 2000,
+                "Ticket": 1
+            }
+        ]
+    },
+    {
+        "Id": "PopStartEvent",
+        "TypeData": "Event",
+        "Image": "https://example.com/wedding.jpg",
+        "Title": "Pop Star",
+        "Description": "An event to showcase the latest in pop fashion.",
+        "UnlockFees": 2,
+        "Price": 50,
+        "Top1Rank": [
+            {
+                "Gem": 5000,
+                "Ticket": 5
+            }
+        ],
+        "Top2Rank": [
+            {
+                "Gem": 3000,
+                "Ticket": 3
+            }
+        ],
+        "Top3Rank": [
+            {
+                "Gem": 2000,
+                "Ticket": 1
+            }
+        ]
+    },
+    {
+        "Id": "",
+        "TypeData": "",
+        "Image": "",
+        "Title": "",
+        "Description": "",
+        "UnlockFees": 2,
+        "Price": 70,
+        "Top1Rank": [
+            {
+                "Gem": 5000,
+                "Ticket": 5
+            }
+        ],
+        "Top2Rank": [
+            {
+                "Gem": 3000,
+                "Ticket": 3
+            }
+        ],
+        "Top3Rank": [
+            {
+                "Gem": 2000,
+                "Ticket": 1
+            }
+        ]
+    }
+]
