@@ -1,6 +1,5 @@
 {
-    "Event1": [{
-        "Id": "WeddingEvent",
+    "WeddingEvent": [{
         "TypeData": "Event",
         "Image": "https://example.com/wedding.jpg",
         "Title": "Wedding",
@@ -26,9 +25,8 @@
             }
         ]
     }],
-    "Event2": [
+    "PopStartEvent": [
     {
-        "Id": "PopStartEvent",
         "TypeData": "Event",
         "Image": "https://example.com/wedding.jpg",
         "Title": "Pop Star",
