@@ -1,7 +1,7 @@
 {
     "ItemEvent": [{
         "TypeData": "Wedding",
-        "Image": "https://example.com/wedding.jpg",
+        "Image": "{ID}",
         "Title": "Wedding",
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
@@ -27,7 +27,7 @@
     },
     {
         "TypeData": "Pop Star",
-        "Image": "https://example.com/wedding.jpg",
+        "Image": "{ID}",
         "Title": "Pop Star",
         "Description": "An event to showcase the latest in pop fashion.",
         "UnlockFees": 2,
