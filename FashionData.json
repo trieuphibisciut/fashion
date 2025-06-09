@@ -1,6 +1,6 @@
 {
-    "WeddingEvent": [{
-        "TypeData": "Event",
+    "ItemEvent": [{
+        "TypeData": "Wedding",
         "Image": "https://example.com/wedding.jpg",
         "Title": "Wedding",
         "Description": "A special event for celebrating love and commitment.",
@@ -24,10 +24,9 @@
                 "Ticket": 1
             }
         ]
-    }],
-    "PopStartEvent": [
+    },
     {
-        "TypeData": "Event",
+        "TypeData": "Pop Star",
         "Image": "https://example.com/wedding.jpg",
         "Title": "Pop Star",
         "Description": "An event to showcase the latest in pop fashion.",
@@ -52,6 +51,6 @@
             }
         ]
     }
-    
-]
+
+    ]
 }
