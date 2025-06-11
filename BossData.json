@@ -1,6 +1,19 @@
 {
-  "RewardDiamond": 500,
-  "Name": "Layla",
-  "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
-  "Type": "RICHGIRL"
+  "Index": 1,
+  "Boss": {
+    "RewardDiamond": 500,
+    "Name": "Layla",
+    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+    "Type": "RICHGIRL"
+  }
+},
+
+{
+  "Index": 2,
+  "Boss": {
+    "RewardDiamond": 500,
+    "Name": "Angle",
+    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+    "Type": "ACSTRESS"
+  }
 }
