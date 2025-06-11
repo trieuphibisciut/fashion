@@ -1,4 +1,5 @@
 {
+  {
   "Index": 0,
   "Boss": {
     "RewardDiamond": 500,
@@ -26,4 +27,6 @@
     "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
     "Type": "ACSTRESS"
   }
+}
+
 }
