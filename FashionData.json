@@ -6,24 +6,38 @@
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
         "Price": 70,
-        "Top1Rank": [
-            {
-                "Gem": 5000,
-                "Ticket": 5
+         "Top1Rank": 
+            { 
+                "Gem": 5000, "Ticket": 5 
+            },
+        "Top2Rank": 
+            { 
+                "Gem": 3000, "Ticket": 3 
+            },
+        "Top3Rank": 
+            { 
+                "Gem": 2000, "Ticket": 1 
+            },
+        "Top4_10": 
+            { 
+                "Gem": 1000, "Ticket": 0 
+            },
+        "Top11_25": 
+            { 
+                "Gem": 500, "Ticket": 0 
+            },
+        "Top26_55": 
+            { 
+                "Gem": 300, "Ticket": 0 
+            },
+        "Top56_70": 
+            { 
+                "Gem": 200, "Ticket": 0 
+            },
+        "Top71_100": 
+            { 
+                "Gem": 100, "Ticket": 0 
             }
-        ],
-        "Top2Rank": [
-            {
-                "Gem": 3000,
-                "Ticket": 3
-            }
-        ],
-        "Top3Rank": [
-            {
-                "Gem": 2000,
-                "Ticket": 1
-            }
-        ]
     },
     {
         "TypeData": "Pop Star",
@@ -32,24 +46,38 @@
         "Description": "An event to showcase the latest in pop fashion.",
         "UnlockFees": 2,
         "Price": 50,
-        "Top1Rank": [
-            {
-                "Gem": 5000,
-                "Ticket": 5
+        "Top1Rank": 
+            { 
+                "Gem": 5000, "Ticket": 5 
+            },
+        "Top2Rank": 
+            { 
+                "Gem": 3000, "Ticket": 3 
+            },
+        "Top3Rank": 
+            { 
+                "Gem": 2000, "Ticket": 1 
+            },
+        "Top4_10": 
+            { 
+                "Gem": 1000, "Ticket": 0 
+            },
+        "Top11_25": 
+            { 
+                "Gem": 500, "Ticket": 0 
+            },
+        "Top26_55": 
+            { 
+                "Gem": 300, "Ticket": 0 
+            },
+        "Top56_70": 
+            { 
+                "Gem": 200, "Ticket": 0 
+            },
+        "Top71_100": 
+            { 
+                "Gem": 100, "Ticket": 0 
             }
-        ],
-        "Top2Rank": [
-            {
-                "Gem": 3000,
-                "Ticket": 3
-            }
-        ],
-        "Top3Rank": [
-            {
-                "Gem": 2000,
-                "Ticket": 1
-            }
-        ]
     }
 
     ]
