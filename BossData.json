@@ -1,32 +1,29 @@
-{
+[
   {
-  "Index": 0,
-  "Boss": {
-    "RewardDiamond": 500,
-    "Name": "Layla",
-    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
-    "Type": "RICHGIRL"
+    "Index": 0,
+    "BossData": {
+      "RewardDiamond": 500,
+      "Name": "Layla",
+      "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+      "Type": "RICHGIRL"
+    }
+  },
+  {
+    "Index": 1,
+    "BossData": {
+      "RewardDiamond": 500,
+      "Name": "Angle",
+      "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+      "Type": "ACSTRESS"
+    }
+  },
+  {
+    "Index": 2,
+    "BossData": {
+      "RewardDiamond": 1000,
+      "Name": "Loli",
+      "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+      "Type": "ACSTRESS"
+    }
   }
-},
-
-{
-  "Index": 1,
-  "Boss": {
-    "RewardDiamond": 500,
-    "Name": "Angle",
-    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
-    "Type": "ACSTRESS"
-  }
-},
-
-{
-  "Index": 2,
-  "Boss": {
-    "RewardDiamond": 1000,
-    "Name": "Loli",
-    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
-    "Type": "ACSTRESS"
-  }
-}
-
-}
+]
