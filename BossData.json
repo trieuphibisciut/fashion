@@ -1,5 +1,5 @@
 {
-  "Index": 1,
+  "Index": 0,
   "Boss": {
     "RewardDiamond": 500,
     "Name": "Layla",
@@ -9,10 +9,20 @@
 },
 
 {
-  "Index": 2,
+  "Index": 1,
   "Boss": {
     "RewardDiamond": 500,
     "Name": "Angle",
+    "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
+    "Type": "ACSTRESS"
+  }
+},
+
+{
+  "Index": 2,
+  "Boss": {
+    "RewardDiamond": 1000,
+    "Name": "Loli",
     "ID": "1dygKPvM6H_bxlQ0scp98NvPm9xvPpurq",
     "Type": "ACSTRESS"
   }
