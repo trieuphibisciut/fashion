@@ -6,7 +6,9 @@
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
         "Price": 70,
-         "Top1Rank": 
+        "StartTime": "2025-06-10T08:00:00Z",
+        "EndTime": "2025-06-15T08:00:00Z",
+        "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
             },
@@ -46,6 +48,8 @@
         "Description": "An event to showcase the latest in pop fashion.",
         "UnlockFees": 2,
         "Price": 50,
+        "StartTime": "2025-06-05T08:00:00Z",
+        "EndTime": "2025-06-10T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
