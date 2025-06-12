@@ -82,7 +82,49 @@
             { 
                 "Gem": 100, "Ticket": 0 
             }
-    }
-
+    },
+        
+    {
+        "TypeData": "Nightmare",
+        "Image": "15QpjxfD24LWI3mGzo3nkR4Qlp7t4-k1c",
+        "Title": "Wedding",
+        "Description": "A special event for celebrating love and commitment.",
+        "UnlockFees": 2,
+        "Price": 70,
+        "StartTime": "2025-06-10T08:00:00Z",
+        "EndTime": "2025-06-11T08:00:00Z",
+        "Top1Rank": 
+            { 
+                "Gem": 5000, "Ticket": 5 
+            },
+        "Top2Rank": 
+            { 
+                "Gem": 3000, "Ticket": 3 
+            },
+        "Top3Rank": 
+            { 
+                "Gem": 2000, "Ticket": 1 
+            },
+        "Top4_10": 
+            { 
+                "Gem": 1000, "Ticket": 0 
+            },
+        "Top11_25": 
+            { 
+                "Gem": 500, "Ticket": 0 
+            },
+        "Top26_55": 
+            { 
+                "Gem": 300, "Ticket": 0 
+            },
+        "Top56_70": 
+            { 
+                "Gem": 200, "Ticket": 0 
+            },
+        "Top71_100": 
+            { 
+                "Gem": 100, "Ticket": 0 
+            }
+    },
     ]
 }
