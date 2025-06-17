@@ -6,8 +6,8 @@
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
         "Price": 70,
-        "StartTime": "2025-06-10T08:00:00Z",
-        "EndTime": "2025-06-15T08:00:00Z",
+        "StartTime": "2025-06-15T08:00:00Z",
+        "EndTime": "2025-06-20T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
