@@ -7,7 +7,7 @@
         "UnlockFees": 2,
         "Price": 70,
         "StartTime": "2025-06-15T08:00:00Z",
-        "EndTime": "2025-06-20T08:00:00Z",
+        "EndTime": "2025-06-26T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
@@ -93,6 +93,49 @@
         "Price": 70,
         "StartTime": "2025-06-20T08:00:00Z",
         "EndTime": "2025-06-25T08:00:00Z",
+        "Top1Rank": 
+            { 
+                "Gem": 5000, "Ticket": 5 
+            },
+        "Top2Rank": 
+            { 
+                "Gem": 3000, "Ticket": 3 
+            },
+        "Top3Rank": 
+            { 
+                "Gem": 2000, "Ticket": 1 
+            },
+        "Top4_10": 
+            { 
+                "Gem": 1000, "Ticket": 0 
+            },
+        "Top11_25": 
+            { 
+                "Gem": 500, "Ticket": 0 
+            },
+        "Top26_55": 
+            { 
+                "Gem": 300, "Ticket": 0 
+            },
+        "Top56_70": 
+            { 
+                "Gem": 200, "Ticket": 0 
+            },
+        "Top71_100": 
+            { 
+                "Gem": 100, "Ticket": 0 
+            }
+    },
+        
+    {
+        "TypeData": "Wedding",
+        "Image": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
+        "Title": "Wedding",
+        "Description": "A special event for celebrating love and commitment.",
+        "UnlockFees": 2,
+        "Price": 70,
+        "StartTime": "2025-06-15T08:00:00Z",
+        "EndTime": "2025-06-17T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
