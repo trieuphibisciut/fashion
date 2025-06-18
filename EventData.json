@@ -1,7 +1,10 @@
 {
     "ItemEvent": [{
         "TypeData": "Wedding",
-        "Image": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
+        "ImagePath": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
+        "IconPath": "1PjW_UO-kVnp_D9D1c8UDpKNEsQ-t8PNp",
+        "BGPath": "18alx9Qb4dekVvf8kzMSJ97E2CSEDGKJ",
+        "ColorTopic": "#FFFF00",
         "Title": "Wedding",
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
@@ -43,7 +46,10 @@
     },
     {
         "TypeData": "Pop Star",
-        "Image": "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
+        "ImagePath": "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
+        "IconPath": "1VipqBlijLv-JYziXZ-DS0aTJFrjIbWbC",
+        "BGPath": "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
+        "ColorTopic": "#FFFF00",
         "Title": "Pop Star",
         "Description": "An event to showcase the latest in pop fashion.",
         "UnlockFees": 2,
@@ -85,8 +91,11 @@
     },
         
     {
-        "TypeData": "Nightmare",
-        "Image": "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
+        "TypeData": "Prom Night",
+        "ImagePath": "1EERDO2_6Dz2eZLisLuresMpoPL3fpxqR",
+        "IconPath": "1wARgS_c5tx6-TpBImfSLVOiFCmKsq_4z",
+        "BGPath": "17auypCfPI_U_Sa9jSk6mqJuMFP16PuRs",
+        "ColorTopic": "#FFFF00",
         "Title": "Nightmare",
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
@@ -128,8 +137,11 @@
     },
         
     {
-        "TypeData": "Wedding",
-        "Image": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
+        "TypeData": "Actress",
+        "ImagePath": "1Fe4W3ILkH-y402FLCz_QlXZMeToWybOV",
+        "IconPath": "1qmfkmlvVsq_ZLAwzQa7v1ym8Cj9uFTlC",
+        "BGPath": "1Qs34KVEuIa-RjpOb_Xz-ZOKO6QFiOKtq",
+        "ColorTopic": "#FFFF00",
         "Title": "Wedding",
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
