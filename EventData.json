@@ -1,6 +1,6 @@
 {
     "ItemEvent": [{
-        "TypeData": "Wedding",
+        "TypeData": "MODELWEDDING",
         "ImagePath": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
         "IconPath": "1PjW_UO-kVnp_D9D1c8UDpKNEsQ-t8PNp",
         "BGPath": "18alx9Qb4dekVvf8kzMSJ97E2CSEDGKJ-",
@@ -45,7 +45,7 @@
             }
     },
     {
-        "TypeData": "Pop Star",
+        "TypeData": "POPSTAR",
         "ImagePath": "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
         "IconPath": "1VipqBlijLv-JYziXZ-DS0aTJFrjIbWbC",
         "BGPath": "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
@@ -137,7 +137,7 @@
     },
         
     {
-        "TypeData": "Actress",
+        "TypeData": "ACTRESS",
         "ImagePath": "1Fe4W3ILkH-y402FLCz_QlXZMeToWybOV",
         "IconPath": "1qmfkmlvVsq_ZLAwzQa7v1ym8Cj9uFTlC",
         "BGPath": "1Qs34KVEuIa-RjpOb_Xz-ZOKO6QFiOKtq",
