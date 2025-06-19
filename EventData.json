@@ -91,12 +91,12 @@
     },
         
     {
-        "TypeData": "Prom Night",
+        "TypeData": "PROMNIGHT",
         "ImagePath": "1EERDO2_6Dz2eZLisLuresMpoPL3fpxqR",
         "IconPath": "1wARgS_c5tx6-TpBImfSLVOiFCmKsq_4z",
         "BGPath": "17auypCfPI_U_Sa9jSk6mqJuMFP16PuRs",
         "ColorTopic": "#A3F5FF",
-        "Title": "Prom Night",
+        "Title": "PROMNIGHT",
         "Description": "A special event for celebrating love and commitment.",
         "UnlockFees": 2,
         "Price": 70,
