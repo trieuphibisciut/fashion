@@ -183,16 +183,16 @@
     },
         {
             "TypeData" : "MUSICREWARD",
-            "ImagePath" : " ",
-            "IconPath" : " ",
-            "BGPath" : " ",
-            "ColorTopic" : " ",
-            "Title": "",
-            "Description": "",
+            "ImagePath" : "1h2v146XOTLqdWiQNe4W9vA9IX7tXoaaL",
+            "IconPath" : "",
+            "BGPath" : "",
+            "ColorTopic" : "#A3F5FF",
+            "Title": "MUSIC",
+            "Description": "A lively event filled with rhythms, melodies, and dance",
             "UnlockFees": 1000,
             "Price": 70,
-            "StartTime": "2025-07-30T08:00:00Z",
-            "EndTime": "2025-08-17T08:00:00Z",
+            "StartTime": "2025-07-12T08:00:00Z",
+            "EndTime": "2025-07-12T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
