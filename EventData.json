@@ -182,11 +182,11 @@
             }
     },
         {
-           
+          
             "TypeData" : "MUSICREWARD",
             "ImagePath" : "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
             "IconPath" : "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
-            "BGPath" : "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
+            "BGPath" : "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
             "ColorTopic" : "#A3F5FF",
             "Title": "MUSIC",
             "Description": "A lively event filled with rhythms, melodies, and dance",
@@ -194,6 +194,54 @@
             "Price": 70,
             "StartTime": "2025-07-12T08:00:00Z",
             "EndTime": "2025-07-12T08:00:00Z",
+        "Top1Rank": 
+            { 
+                "Gem": 5000, "Ticket": 5 
+            },
+        "Top2Rank": 
+            { 
+                "Gem": 3000, "Ticket": 3 
+            },
+        "Top3Rank": 
+            { 
+                "Gem": 2000, "Ticket": 1 
+            },
+        "Top4_10": 
+            { 
+                "Gem": 1000, "Ticket": 0 
+            },
+        "Top11_25": 
+            { 
+                "Gem": 500, "Ticket": 0 
+            },
+        "Top26_55": 
+            { 
+                "Gem": 300, "Ticket": 0 
+            },
+        "Top56_70": 
+            { 
+                "Gem": 200, "Ticket": 0 
+            },
+        "Top71_100": 
+            { 
+                "Gem": 100, "Ticket": 0 
+            }
+        
+        },
+        {
+        
+           
+            "TypeData" : "ELEGANELIGHT",
+            "ImagePath" : "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
+            "IconPath" : "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
+            "BGPath" : "1CQi1axNrT7OZebfV4pUnIyYqQzX9G78s",
+            "ColorTopic" : "#A3F5FF",
+            "Title": "ELEGANELIGHT",
+            "Description": "A graceful celebration of elegance, beauty, and luminous charm.",
+            "UnlockFees": 1000,
+            "Price": 70,
+            "StartTime": "2025-07-01T08:00:00Z",
+            "EndTime": "2025-07-05T08:00:00Z",
         "Top1Rank": 
             { 
                 "Gem": 5000, "Ticket": 5 
