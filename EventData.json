@@ -182,14 +182,14 @@
             }
     },
         {
-          
-            "TypeData" : "MUSICREWARD",
-            "ImagePath" : "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
-            "IconPath" : "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
-            "BGPath" : "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
+         
+            "TypeData" : "GLAMOURGALA",
+            "ImagePath" : "14geRUW5iQWcq_Mavh8tJitbrxYO9nhYv",
+            "IconPath" : "1eQtI0iduydVG-jDVBXmjcsbFtSEtuTye",
+            "BGPath" : "1TSMHFExO2y8w7SMtRNe_Z54ynsMRU8eZ",
             "ColorTopic" : "#A3F5FF",
-            "Title": "MUSIC",
-            "Description": "A lively event filled with rhythms, melodies, and dance",
+            "Title": "GLAMOURGALA",
+            "Description": "An extravagant celebration of luxury, fame, and dazzling style.",
             "UnlockFees": 1000,
             "Price": 70,
             "StartTime": "2025-07-12T08:00:00Z",
@@ -229,11 +229,9 @@
         
         },
         {
-        
-           
             "TypeData" : "ELEGANELIGHT",
             "ImagePath" : "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
-            "IconPath" : "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
+            "IconPath" : "1awJivSUAfoauS5-RBxBNL5v02icPSDok",
             "BGPath" : "1CQi1axNrT7OZebfV4pUnIyYqQzX9G78s",
             "ColorTopic" : "#A3F5FF",
             "Title": "ELEGANELIGHT",
