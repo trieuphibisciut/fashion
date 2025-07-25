@@ -269,51 +269,6 @@
         "Gem": 100,
         "Ticket": 0
       }
-    },
-    {
-      "TypeData": "NEW_EVENT",
-      "ImagePath": "image_id_here",
-      "IconPath": "icon_id_here",
-      "BGPath": "bg_id_here",
-      "ColorTopic": "#FFFFFF",
-      "Title": "NEW_EVENT",
-      "Description": "A new event added via Google Sheets.",
-      "UnlockFees": 999,
-      "Price": 88,
-      "StartTime": "2025-08-01T08:00:00Z",
-      "EndTime": "2025-08-10T08:00:00Z",
-      "Top1Rank": {
-        "Gem": 9999,
-        "Ticket": 9
-      },
-      "Top2Rank": {
-        "Gem": 5555,
-        "Ticket": 5
-      },
-      "Top3Rank": {
-        "Gem": 3000,
-        "Ticket": 3
-      },
-      "Top4_10": {
-        "Gem": 1500,
-        "Ticket": 1
-      },
-      "Top11_25": {
-        "Gem": 700,
-        "Ticket": 0
-      },
-      "Top26_55": {
-        "Gem": 400,
-        "Ticket": 0
-      },
-      "Top56_70": {
-        "Gem": 200,
-        "Ticket": 0
-      },
-      "Top71_100": {
-        "Gem": 100,
-        "Ticket": 0
-      }
     }
   ]
 }
