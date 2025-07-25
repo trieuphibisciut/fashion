@@ -1,278 +1,319 @@
 {
-    "ItemEvent": [{
-        "TypeData": "MODELWEDDING",
-        "ImagePath": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
-        "IconPath": "1PjW_UO-kVnp_D9D1c8UDpKNEsQ-t8PNp",
-        "BGPath": "18alx9Qb4dekVvf8kzMSJ97E2CSEDGKJ-",
-        "ColorTopic": "#A3F5FF",
-        "Title": "MODELWEDDING",
-        "Description": "A special event for celebrating love and commitment.",
-        "UnlockFees": 2,
-        "Price": 20,
-        "StartTime": "2025-07-20T08:00:00Z",
-        "EndTime": "2025-07-30T16:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
+  "ItemEvent": [
+    {
+      "TypeData": "MODELWEDDING",
+      "ImagePath": "11BUCiXcINzJkzlJurYiSl7PcYI7hO9p2",
+      "IconPath": "1PjW_UO-kVnp_D9D1c8UDpKNEsQ-t8PNp",
+      "BGPath": "18alx9Qb4dekVvf8kzMSJ97E2CSEDGKJ-",
+      "ColorTopic": "#A3F5FF",
+      "Title": "MODELWEDDING",
+      "Description": "A special event for celebrating love and commitment.",
+      "UnlockFees": 2,
+      "Price": 20,
+      "StartTime": "2025-07-20T08:00:00Z",
+      "EndTime": "2025-07-30T16:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
     },
     {
-        "TypeData": "POPSTAR",
-        "ImagePath": "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
-        "IconPath": "1VipqBlijLv-JYziXZ-DS0aTJFrjIbWbC",
-        "BGPath": "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
-        "ColorTopic": "#A3F5FF",
-        "Title": "POPSTAR",
-        "Description": "An event to showcase the latest in pop fashion.",
-        "UnlockFees": 2,
-        "Price": 30,
-        "StartTime": "2025-07-21T08:00:00Z",
-        "EndTime": "2025-07-30T08:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
+      "TypeData": "POPSTAR",
+      "ImagePath": "1EubzxUQviX0BueKUY0OySelurb3Q7ZrG",
+      "IconPath": "1VipqBlijLv-JYziXZ-DS0aTJFrjIbWbC",
+      "BGPath": "1IAxRxwNYBS5b-QtdJstIO3n9MzAUa3qZ",
+      "ColorTopic": "#A3F5FF",
+      "Title": "POPSTAR",
+      "Description": "An event to showcase the latest in pop fashion.",
+      "UnlockFees": 2,
+      "Price": 30,
+      "StartTime": "2025-07-21T08:00:00Z",
+      "EndTime": "2025-07-30T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
     },
-        
     {
-        "TypeData": "PROMNIGHT",
-        "ImagePath": "1EERDO2_6Dz2eZLisLuresMpoPL3fpxqR",
-        "IconPath": "1wARgS_c5tx6-TpBImfSLVOiFCmKsq_4z",
-        "BGPath": "17auypCfPI_U_Sa9jSk6mqJuMFP16PuRs",
-        "ColorTopic": "#A3F5FF",
-        "Title": "PROMNIGHT",
-        "Description": "A special event for celebrating love and commitment.",
-        "UnlockFees": 2,
-        "Price": 30,
-        "StartTime": "2025-07-23T08:00:00Z",
-        "EndTime": "2025-07-30T08:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
+      "TypeData": "PROMNIGHT",
+      "ImagePath": "1EERDO2_6Dz2eZLisLuresMpoPL3fpxqR",
+      "IconPath": "1wARgS_c5tx6-TpBImfSLVOiFCmKsq_4z",
+      "BGPath": "17auypCfPI_U_Sa9jSk6mqJuMFP16PuRs",
+      "ColorTopic": "#A3F5FF",
+      "Title": "PROMNIGHT",
+      "Description": "A special event for celebrating love and commitment.",
+      "UnlockFees": 2,
+      "Price": 30,
+      "StartTime": "2025-07-23T08:00:00Z",
+      "EndTime": "2025-07-30T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
     },
-        
     {
-        "TypeData": "ACTRESS",
-        "ImagePath": "1Fe4W3ILkH-y402FLCz_QlXZMeToWybOV",
-        "IconPath": "1qmfkmlvVsq_ZLAwzQa7v1ym8Cj9uFTlC",
-        "BGPath": "1Qs34KVEuIa-RjpOb_Xz-ZOKO6QFiOKtq",
-        "ColorTopic": "#A3F5FF",
-        "Title": "ACTRESS",
-        "Description": "A special event for celebrating love and commitment.",
-        "UnlockFees": 2,
-        "Price": 30,
-        "StartTime": "2025-07-30T08:00:00Z",
-        "EndTime": "2025-08-17T08:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
+      "TypeData": "ACTRESS",
+      "ImagePath": "1Fe4W3ILkH-y402FLCz_QlXZMeToWybOV",
+      "IconPath": "1qmfkmlvVsq_ZLAwzQa7v1ym8Cj9uFTlC",
+      "BGPath": "1Qs34KVEuIa-RjpOb_Xz-ZOKO6QFiOKtq",
+      "ColorTopic": "#A3F5FF",
+      "Title": "ACTRESS",
+      "Description": "A special event for celebrating love and commitment.",
+      "UnlockFees": 2,
+      "Price": 30,
+      "StartTime": "2025-07-30T08:00:00Z",
+      "EndTime": "2025-08-17T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
     },
-        {
-         
-            "TypeData" : "GLAMOURGALA",
-            "ImagePath" : "14geRUW5iQWcq_Mavh8tJitbrxYO9nhYv",
-            "IconPath" : "1eQtI0iduydVG-jDVBXmjcsbFtSEtuTye",
-            "BGPath" : "1TSMHFExO2y8w7SMtRNe_Z54ynsMRU8eZ",
-            "ColorTopic" : "#A3F5FF",
-            "Title": "GLAMOURGALA",
-            "Description": "An extravagant celebration of luxury, fame, and dazzling style.",
-            "UnlockFees": 1000,
-            "Price": 70,
-            "StartTime": "2025-07-12T08:00:00Z",
-            "EndTime": "2025-07-12T08:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
-        
-        },
-        {
-            "TypeData" : "ELEGANELIGHT",
-            "ImagePath" : "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
-            "IconPath" : "1awJivSUAfoauS5-RBxBNL5v02icPSDok",
-            "BGPath" : "1CQi1axNrT7OZebfV4pUnIyYqQzX9G78s",
-            "ColorTopic" : "#A3F5FF",
-            "Title": "ELEGANELIGHT",
-            "Description": "A graceful celebration of elegance, beauty, and luminous charm.",
-            "UnlockFees": 1000,
-            "Price": 70,
-            "StartTime": "2025-07-01T08:00:00Z",
-            "EndTime": "2025-07-05T08:00:00Z",
-        "Top1Rank": 
-            { 
-                "Gem": 5000, "Ticket": 5 
-            },
-        "Top2Rank": 
-            { 
-                "Gem": 3000, "Ticket": 3 
-            },
-        "Top3Rank": 
-            { 
-                "Gem": 2000, "Ticket": 1 
-            },
-        "Top4_10": 
-            { 
-                "Gem": 1000, "Ticket": 0 
-            },
-        "Top11_25": 
-            { 
-                "Gem": 500, "Ticket": 0 
-            },
-        "Top26_55": 
-            { 
-                "Gem": 300, "Ticket": 0 
-            },
-        "Top56_70": 
-            { 
-                "Gem": 200, "Ticket": 0 
-            },
-        "Top71_100": 
-            { 
-                "Gem": 100, "Ticket": 0 
-            }
-        
-        }
-    ]
+    {
+      "TypeData": "GLAMOURGALA",
+      "ImagePath": "14geRUW5iQWcq_Mavh8tJitbrxYO9nhYv",
+      "IconPath": "1eQtI0iduydVG-jDVBXmjcsbFtSEtuTye",
+      "BGPath": "1TSMHFExO2y8w7SMtRNe_Z54ynsMRU8eZ",
+      "ColorTopic": "#A3F5FF",
+      "Title": "GLAMOURGALA",
+      "Description": "An extravagant celebration of luxury, fame, and dazzling style.",
+      "UnlockFees": 1000,
+      "Price": 70,
+      "StartTime": "2025-07-12T08:00:00Z",
+      "EndTime": "2025-07-12T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
+    },
+    {
+      "TypeData": "ELEGANELIGHT",
+      "ImagePath": "1Mxb7S8FblaUdg6MGcWrGAjNiD5Sw_rQu",
+      "IconPath": "1awJivSUAfoauS5-RBxBNL5v02icPSDok",
+      "BGPath": "1CQi1axNrT7OZebfV4pUnIyYqQzX9G78s",
+      "ColorTopic": "#A3F5FF",
+      "Title": "ELEGANELIGHT",
+      "Description": "A graceful celebration of elegance, beauty, and luminous charm.",
+      "UnlockFees": 1000,
+      "Price": 70,
+      "StartTime": "2025-07-01T08:00:00Z",
+      "EndTime": "2025-07-05T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 5000,
+        "Ticket": 5
+      },
+      "Top2Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top3Rank": {
+        "Gem": 2000,
+        "Ticket": 1
+      },
+      "Top4_10": {
+        "Gem": 1000,
+        "Ticket": 0
+      },
+      "Top11_25": {
+        "Gem": 500,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 300,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
+    },
+    {
+      "TypeData": "NEW_EVENT",
+      "ImagePath": "image_id_here",
+      "IconPath": "icon_id_here",
+      "BGPath": "bg_id_here",
+      "ColorTopic": "#FFFFFF",
+      "Title": "NEW_EVENT",
+      "Description": "A new event added via Google Sheets.",
+      "UnlockFees": 999,
+      "Price": 88,
+      "StartTime": "2025-08-01T08:00:00Z",
+      "EndTime": "2025-08-10T08:00:00Z",
+      "Top1Rank": {
+        "Gem": 9999,
+        "Ticket": 9
+      },
+      "Top2Rank": {
+        "Gem": 5555,
+        "Ticket": 5
+      },
+      "Top3Rank": {
+        "Gem": 3000,
+        "Ticket": 3
+      },
+      "Top4_10": {
+        "Gem": 1500,
+        "Ticket": 1
+      },
+      "Top11_25": {
+        "Gem": 700,
+        "Ticket": 0
+      },
+      "Top26_55": {
+        "Gem": 400,
+        "Ticket": 0
+      },
+      "Top56_70": {
+        "Gem": 200,
+        "Ticket": 0
+      },
+      "Top71_100": {
+        "Gem": 100,
+        "Ticket": 0
+      }
+    }
+  ]
 }
